@@ -1,0 +1,37 @@
+[
+  {
+    "lastname": "Johnson",
+    "age": 10,
+    "gender": "Male",
+    "race": "Causcasian",
+    "dob": "2020-10-06T04:00:00.000Z"
+  },
+  {
+    "lastname": "Rob",
+    "age": 18,
+    "gender": "Female",
+    "race": "African-American",
+    "dob": "2020-10-06T04:00:00.000Z"
+  },
+  {
+    "lastname": "Robert",
+    "age": 14,
+    "gender": "Female",
+    "race": "Causcasian",
+    "dob": "2020-10-06T04:00:00.000Z"
+  },
+  {
+    "lastname": "Smith",
+    "age": 18,
+    "gender": "Male",
+    "race": "Causcasian",
+    "dob": "2020-10-06T04:00:00.000Z"
+  },
+  {
+    "lastname": "Jackson",
+    "age": 20,
+    "gender": "Male",
+    "race": "Causcasian",
+    "dob": "2020-10-06T04:00:00.000Z"
+  }
+]
